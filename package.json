@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "A Twitter Bot for timepass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poleindraneel/twitter-bot-analysis.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Indraneel Pole",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
